@@ -1,0 +1,24 @@
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.exe.config
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.exe
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.pdb
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.Form1.resources
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.Properties.Resources.resources
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csproj.GenerateResource.Cache
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.exe
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.pdb
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\Newtonsoft.Json.dll
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\Newtonsoft.Json.xml
+c:\users\grzegorz gawryś\documents\visual studio 2015\Projects\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csprojResolveAssemblyReference.cache
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.exe.config
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.exe
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\XMLToJSNOConverter.pdb
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csprojAssemblyReference.cache
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.Form1.resources
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.Properties.Resources.resources
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csproj.GenerateResource.cache
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csproj.CoreCompileInputs.cache
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.csproj.CopyComplete
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.exe
+C:\Users\antos\Desktop\XMLToJSNOConverter\XMLToJSNOConverter\obj\Debug\XMLToJSNOConverter.pdb

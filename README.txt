@@ -1,0 +1,1 @@
+A program that will allow you to convert an .xml file to the .json format. It is protected against the conversion of incorrect entries or tags.
